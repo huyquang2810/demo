@@ -5,3 +5,6 @@ huy
 lam
 quen
 nha
+ok
+ko
+
