@@ -8,3 +8,5 @@ nha
 ok
 ko
 
+ok
+luôn
